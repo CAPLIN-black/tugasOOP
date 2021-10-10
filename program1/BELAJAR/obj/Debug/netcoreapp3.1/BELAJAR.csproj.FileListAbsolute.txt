@@ -1,0 +1,14 @@
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.csproj.AssemblyReference.cache
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.AssemblyInfoInputs.cache
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.AssemblyInfo.cs
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.csproj.CoreCompileInputs.cache
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.exe
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.deps.json
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.runtimeconfig.json
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.runtimeconfig.dev.json
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.dll
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\bin\Debug\netcoreapp3.1\BELAJAR.pdb
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.dll
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.pdb
+C:\Users\fateh\Documents\Bandicam\BELAJAR\BELAJAR\obj\Debug\netcoreapp3.1\BELAJAR.genruntimeconfig.cache

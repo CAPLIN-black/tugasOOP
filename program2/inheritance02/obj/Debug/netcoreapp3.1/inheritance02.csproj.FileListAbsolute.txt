@@ -1,0 +1,14 @@
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.exe
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.deps.json
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.runtimeconfig.json
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.runtimeconfig.dev.json
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.dll
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\bin\Debug\netcoreapp3.1\inheritance02.pdb
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.csproj.AssemblyReference.cache
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.AssemblyInfoInputs.cache
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.AssemblyInfo.cs
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.csproj.CoreCompileInputs.cache
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.dll
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.pdb
+C:\Users\fateh\Documents\Bandicam\inheritance02\inheritance02\obj\Debug\netcoreapp3.1\inheritance02.genruntimeconfig.cache
